@@ -55,5 +55,5 @@
 
 ## 📫 Contact Me
 
-- 📧 [Email](mail@veysel-karaali.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/veysel-karaali-9a980934a/)
+- 📧 [Email](mailto:mail@veysel-karaali.com)
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/veysel-karaali-9a980934a/) -->
