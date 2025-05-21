@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veyselkaraali&layout=compact&theme=dark&locale=en" alt="Most Used Languages" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veyselkaraali&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
@@ -52,6 +53,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veyselkaraali&theme=dark&locale=en" alt="GitHub Streak" />
 </p>
+-->
 
 ## 📫 Contact Me
 
