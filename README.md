@@ -10,7 +10,6 @@
 - 🎓 Bachelor's degree in **Internet of Things**
 - 💻 Specializing in Web Development for **Business Applications**
 - 🌱 Currently improving my skills in **Fullstack Web Development**
-- ☁️ Interested in **Cloud Deployments** and **DevOps workflows**
 - 📚 Always curious about new technologies and clean software architecture
 - 🔗 Check out some of my [projects](https://veysel-karaali.com/#projects)
 
