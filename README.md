@@ -2,7 +2,7 @@
 <h2 align="center">Fullstack Developer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veyselkaraali&label=Profile%20views&color=0e75b6&style=flat" alt="veyselkaraali" />
+  <img src="https://komarev.com/ghpvc/?username=veyseldev&label=Profile%20views&color=0e75b6&style=flat" alt="veysel" />
 </p>
 
 ## 🚀 About Me
@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veyselkaraali&layout=compact&theme=dark&locale=en" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veyseldev&layout=compact&theme=dark&locale=en" alt="Most Used Languages" />
 </p>
 
 <!-- 
